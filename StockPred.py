@@ -19,7 +19,7 @@ TODAY = date.today().strftime("%Y-%m-%d")
 st.title("Stock Prediction App")
 st.subheader('by Rutuja Jadhav')
 st.text('About')
-st.text('This app was created as a Portfolio project to predict the stock prices from a given selection of tickers. You can read more about this project on the README file available on my Git Hub here - https://github.com/rutuja-jadhav-github/Stock_Prediction_App/blob/main/README.md. If you like this work, please leave me a star on the GitHub repository :) To learn more about building data apps for your portfolio check out @patloeber on You Tube.')
+st.write('This app was created as a Portfolio project to predict the stock prices from a given selection of tickers. You can read more about this project on the README file available on my Git Hub here - https://github.com/rutuja-jadhav-github/Stock_Prediction_App/blob/main/README.md. If you like this work, please leave me a star on the GitHub repository :) To learn more about building data apps for your portfolio check out @patloeber on You Tube.')
 
 
 stocks = ('AAPL','GOOG','MSFT','GME')
