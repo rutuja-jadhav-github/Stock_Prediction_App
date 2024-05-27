@@ -36,7 +36,7 @@ pandas==2.2.2
 While the app offers functional utility, from a research and improvement perspective, it would be ideal to rebuild it using other approaches and benchmark with efficiency metrics such as RMSE or MAPE to confirm if the Prophet algorithm indeed was the best fit for this use case.
 
 
-# Credits 
+## Credits 
 https://www.sciencedirect.com/science/article/abs/pii/S0301421522003226#:~:text=In%20contrast%2C%20Fb%20Prophet%20performs,than%20CEA%20and%20Fb%20Prophet.
 
 https://neptune.ai/blog/arima-vs-prophet-vs-lstm
