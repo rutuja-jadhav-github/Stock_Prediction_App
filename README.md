@@ -4,9 +4,9 @@ App link - https://stockpredictionapp-rj.streamlit.app/
 
 Please open the link in a new tab - it may take a while to load. Apologies , Streamlit servers! In the meantime, you can read more about the app below. If it doesn't load, please drop me a line on my email or Linked In. Thanks:)
 
-<img width="1170" alt="Screenshot 2024-05-27 at 15 44 40" src="https://github.com/rutuja-jadhav-github/Stock_Prediction_App/assets/160432263/079c41b1-00d7-410f-8baa-8a5521b61cdc">
-
 <img width="1273" alt="Screenshot 2024-05-27 at 15 42 31" src="https://github.com/rutuja-jadhav-github/Stock_Prediction_App/assets/160432263/250fa52d-35b7-4219-820f-3605f732d207">
+
+<img width="1170" alt="Screenshot 2024-05-27 at 15 44 40" src="https://github.com/rutuja-jadhav-github/Stock_Prediction_App/assets/160432263/079c41b1-00d7-410f-8baa-8a5521b61cdc">
 
 <img width="1253" alt="Screenshot 2024-05-27 at 15 45 30" src="https://github.com/rutuja-jadhav-github/Stock_Prediction_App/assets/160432263/bfd903a1-461b-415f-b81b-dfe52c0a97bb">
 
